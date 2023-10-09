@@ -1,0 +1,9 @@
+what is pr
+what is branch
+conflict
+how to create branch by cmd
+gitignore?
+GLOBAL name 
+global email
+git pull
+merge files
